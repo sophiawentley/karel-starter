@@ -77,8 +77,6 @@ public class MyKarel extends Karel {
             }
             private void turnRight() {
                 turnLeft();
-                turnLeft();
-                turnLeft();
             }
         }
 }
