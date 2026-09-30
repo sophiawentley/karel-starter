@@ -1,1 +1,1 @@
-This is my Karel Project
+This is my Karel the Robot Project! Initially, Karel could only perform four commands: move, turn left, pick beeper, and put beeper. Over the weeks with Karel in COSC 10001, we taught Karel other commands like turn right and turn around! To run Karel, open run.sh on macOS or run.ps1 on Windows. 
